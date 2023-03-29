@@ -1,4 +1,4 @@
-# `D.09.x` [DRAFT] Resource Gammacell 220 Irradiators
+# `C.09.x` [DRAFT] Resource Gammacell 220 Irradiators
 
 ## Objective
 

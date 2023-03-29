@@ -1,4 +1,4 @@
-# `D.03.4` Radiation Hardness Testing and Mixed-Field Radiation Effects
+# `C.03.4` Radiation Hardness Testing and Mixed-Field Radiation Effects
 
 ## Objective
 

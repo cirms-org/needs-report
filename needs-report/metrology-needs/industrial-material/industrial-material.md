@@ -59,27 +59,27 @@ of Food Irradiation Community
 
 ## 2018 Discussion Topics
 
-- D.18.1 [ Forum for Access to Specialty Tools in IRMS](./D.18.1-access-speciatly-tools.md)
+- C.18.1 [ Forum for Access to Specialty Tools in IRMS](./C.18.1-access-speciatly-tools.md)
 
-- D.18.2 (...)
+- C.18.2 (...)
 
 ## Measurement Program Descriptions (MPDs)
 
 *Specific action items are active for consideration by the community.*
 
-- [ ] `4.27.15` *(draft form - proposed)* [Roadmap to Resource Gammacell 220 Irradiators](./D.09.x-draft-gammacell-220.md)
+- [ ] `4.27.15` *(draft form - proposed)* [Roadmap to Resource Gammacell 220 Irradiators](./C.09.x-draft-gammacell-220.md)
 
-- [ ] `D.09.1` [Low Alpha Standard](./D.09.1-standard-low-alpha.md)
+- [ ] `C.09.1` [Low Alpha Standard](./C.09.1-standard-low-alpha.md)
 
-- [ ] `D.03.4` [Radiation Hardness Testing and Mixed-Field Radiation Effects](./D.03.4-test-hardness-effects.md)
+- [ ] `C.03.4` [Radiation Hardness Testing and Mixed-Field Radiation Effects](./C.03.4-test-hardness-effects.md)
 
-- [ ] `D.05.3` [Medical Device Sterilization](./D.05.3-sterilization-medical.md)
+- [ ] `C.05.3` [Medical Device Sterilization](./C.05.3-sterilization-medical.md)
 
-- [ ] `D.06.1` [Pollution Prevention](./D.06.1-pollution-prevention.md) (P2)
+- [ ] `C.06.1` [Pollution Prevention](./C.06.1-pollution-prevention.md) (P2)
 
-- [ ] `D.07.3` [Food Irradiation](./D.07.3-food-irradiation.md)
+- [ ] `C.07.3` [Food Irradiation](./C.07.3-food-irradiation.md)
 
-- [ ] `D.08.1` [Low-voltage Electron Beam and X-ray Dosimetry](./D.08.1-dosimetry-ebeam-low-energy.md) (80 to 300 KeV)
+- [ ] `C.08.1` [Low-voltage Electron Beam and X-ray Dosimetry](./C.08.1-dosimetry-ebeam-low-energy.md) (80 to 300 KeV)
 
 - [ ] `B.17.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](../safety-security/B.17.0-traceability-neutrons.md)[^joint-1]
 
@@ -87,15 +87,15 @@ of Food Irradiation Community
 
 ## Proposed MPDs (as of October 2012)
 
-- [ ] `D.08.2` [High-energy Electron Beam Dosimetry](./D.08.2-dosimetry-ebeam-high-energy.md) (> 300 KeV)
+- [ ] `C.08.2` [High-energy Electron Beam Dosimetry](./C.08.2-dosimetry-ebeam-high-energy.md) (> 300 KeV)
 
-- [ ] `D.09.1` [Fast Neutron Reactor Research and Development](./D.09.1-research-fast-neutrons.md)
+- [ ] `C.09.1` [Fast Neutron Reactor Research and Development](./C.09.1-research-fast-neutrons.md)
 
-- [ ] `D.09.2` [Reprocessing of Used Nuclear Fuel](./D.09.3-dose-temperature-polymers.md)
+- [ ] `C.09.2` [Reprocessing of Used Nuclear Fuel](./C.09.3-dose-temperature-polymers.md)
 
-- [ ] `D.09.3` [Link Absorbed Dose and Irradiation Temperature to Properties of Polymeric Materials](./D.09.3-dose-temperature-polymers.md)[^joint-2]
+- [ ] `C.09.3` [Link Absorbed Dose and Irradiation Temperature to Properties of Polymeric Materials](./C.09.3-dose-temperature-polymers.md)[^joint-2]
 
-- [ ] `D.10.0` [Positronium Production](./D.10.0-production-positronium.md)
+- [ ] `C.10.0` [Positronium Production](./C.10.0-production-positronium.md)
 
 [^joint-2]: Joint MPD with [Medical Applications](Medical_Applications)
 
@@ -103,8 +103,8 @@ of Food Irradiation Community
 
 *All action items have been completed or are inactive.*
 
-- [x] `D.01.0` [High-Dose Calibrations for Electron-Beam Processing](./D.01.0-calibration-high-dose-ebeam.md) (Watchlisted in 2011)
+- [x] `C.01.0` [High-Dose Calibrations for Electron-Beam Processing](./C.01.0-calibration-high-dose-ebeam.md) (Watchlisted in 2011)
 
-- [x] `D.02.0` [Radiation Measurements for Gamma-Radiation Processing](./D.02.0-measure-gamma-processing.md) (Watchlisted in 2011)
+- [x] `C.02.0` [Radiation Measurements for Gamma-Radiation Processing](./C.02.0-measure-gamma-processing.md) (Watchlisted in 2011)
 
-- [x] `D.04.4` [Neutron Dosimetry for Reactor Pressure Vessel Surveillance](./D.04.4-dosimetry-neutron-surveillance.md) (Watchlisted in 2012)
+- [x] `C.04.4` [Neutron Dosimetry for Reactor Pressure Vessel Surveillance](./C.04.4-dosimetry-neutron-surveillance.md) (Watchlisted in 2012)

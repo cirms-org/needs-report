@@ -1,4 +1,4 @@
-# `D.07.3` Forum for Access to Specialty Tools in IRMS
+# `C.07.3` Forum for Access to Specialty Tools in IRMS
 
 ## Objective
 
@@ -38,7 +38,7 @@ irradiation effects on packaging materials for food that will be irradiated in
 its package.
 
 - [ ] Utilize complementary methodologies being developed for dosimetry
-metrology for medical device sterilization (MPD D.5.3).
+metrology for medical device sterilization (MPD C.5.3).
 
 - [ ] Using Monte Carlo calculations, determine the dose distributions for
 heterogeneous food product packages, such as boxes of chicken wings with their

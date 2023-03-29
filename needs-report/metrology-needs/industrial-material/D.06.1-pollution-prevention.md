@@ -1,4 +1,4 @@
-# `D.06.1` Pollution prevention
+# `C.06.1` Pollution prevention
 
 ## Objective
 
