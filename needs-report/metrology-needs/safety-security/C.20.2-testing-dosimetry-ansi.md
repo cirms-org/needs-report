@@ -1,4 +1,4 @@
-# `C.20.2` Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11
+# `B.13.2` Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11
 
 ## Objective
 

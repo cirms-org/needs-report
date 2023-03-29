@@ -1,4 +1,4 @@
-# `C.03.4` Intercomparison Transfer Standards for Neutron Source Calibrations
+# `B.10.4` Intercomparison Transfer Standards for Neutron Source Calibrations
 
 ## Objective
 

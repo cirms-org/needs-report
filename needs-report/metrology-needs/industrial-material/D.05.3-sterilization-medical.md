@@ -1,4 +1,4 @@
-# `D.05.3` Medical Device Sterilization
+# `C.05.3` Medical Device Sterilization
 
 ## Objective
 
@@ -7,7 +7,7 @@ electron beam dosimetry used in medical device sterilization.
 
 ## Actions
 
-- [ ] Link to efforts of MPD D.8.2 [High-energy Electron Beam
+- [ ] Link to efforts of MPD C.8.2 [High-energy Electron Beam
 Dosimetry](High-energy_Electron_Beam_Dosimetry "wikilink") to ensure medical
 sterilization is a considered metric. (Proposed in 2012)
 

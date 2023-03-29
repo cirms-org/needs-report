@@ -1,4 +1,4 @@
-# `C.21.0` Measurement and Calibration Methods for Surface Contamination Monitoring
+# `B.15.0` Measurement and Calibration Methods for Surface Contamination Monitoring
 
 *MPD to be addressed at annual meeting in October, 2012*
 

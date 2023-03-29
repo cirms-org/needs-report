@@ -1,4 +1,4 @@
-# `D.02.0` Radiation Measurements for Gamma-Radiation Processing
+# `C.02.0` Radiation Measurements for Gamma-Radiation Processing
 
 ## Objective
 

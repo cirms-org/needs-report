@@ -1,4 +1,4 @@
-# `D.10.0` Positronium Production
+# `C.10.0` Positronium Production
 
 ## Objective
 
