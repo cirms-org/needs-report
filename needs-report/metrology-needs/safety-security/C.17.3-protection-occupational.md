@@ -1,4 +1,4 @@
-# `C.17.3` Improved Radiation Measurement Infrastructure for Occupational Radiation Protection
+# `B.12.3` Improved Radiation Measurement Infrastructure for Occupational Radiation Protection
 
 ## Objective
 

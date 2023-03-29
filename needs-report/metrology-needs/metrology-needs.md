@@ -8,9 +8,9 @@ interest:
 
 `A` [Medical Applications](medical-applications/medical-applications.md)
 
-`B` [Public and Environmental Protection](safety-security/safety-security.md)
+`B` [Radiation Protection and Homeland Security](safety-security/safety-security.md)
 
-`C` [Occupational Radiation Protection](safety-security/safety-security.md)
+`C` [Industrial Applications and Materials Effects](industrial-material/industrial-material.md)
 
 `D` [Computational Needs](computational-needs/computational-needs.md)
 

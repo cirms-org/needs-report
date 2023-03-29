@@ -35,20 +35,20 @@ maintain the MPDs listed below.
 
 - [ ] `B.09.2` [Atom-Counting Measurement Techniques for Environmental Monitoring](./B.09.2-atom-counting.md)
 
-- [ ] `C.03.4` [Intercomparison Transfer Standards for Neutron Source Calibrations](./C.03.4-calibration-neutron-source.md)
+- [ ] `B.10.4` [Intercomparison Transfer Standards for Neutron Source Calibrations](./B.10.4-calibration-neutron-source.md)
 
-- [ ] `C.04.4` [Improvements in In-Vivo Radionuclide Metrology](./C.04.4-radionuclides-in-vivo.md)
+- [ ] `B.11.4` [Improvements in In-Vivo Radionuclide Metrology](./B.11.4-radionuclides-in-vivo.md)
 
-- [ ] `C.17.3` [Improved Radiation Measurement Infrastructure for Occupational Radiation Protection](./C.17.3-protection-occupational.md)
+- [ ] `B.12.3` [Improved Radiation Measurement Infrastructure for Occupational Radiation Protection](./B.12.3-protection-occupational.md)
 
-- [ ] `C.20.2` [Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11](./C.20.2-testing-dosimetry-ansi.md)
+- [ ] `B.13.2` [Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11](./B.13.2-testing-dosimetry-ansi.md)
 
-- [ ] `E.01.1` [Emergency Radiological Response Metrology Infrastructure](./E.01.1-emergency-response.md)
+- [ ] `B.14.1` [Emergency Radiological Response Metrology Infrastructure](./B.14.1-emergency-response.md)
 
 ## New Measurement Program Descriptions (MPDs)
 
-- [ ] `C.21.0` [Measurement and Calibration Methods for Surface Contamination Monitoring](./C.21.0-surface-contamination.md)
+- [ ] `B.15.0` [Measurement and Calibration Methods for Surface Contamination Monitoring](./B.15.0-surface-contamination.md)
 
-- [ ] `E.04.0` [Traceability for High Energy Photon Dosimetry for Non-Intrusive Inspection Systems](./E.04.0-traceability-inspection.md)
+- [ ] `B.16.0` [Traceability for High Energy Photon Dosimetry for Non-Intrusive Inspection Systems](./B.16.0-traceability-inspection.md)
 
-- [ ] `E.05.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](./E.05.0-traceability-neutrons.md)
+- [ ] `B.17.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](./B.17.0-traceability-neutrons.md)
