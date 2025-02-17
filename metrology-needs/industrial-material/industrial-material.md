@@ -67,8 +67,6 @@ of Food Irradiation Community
 
 *Specific action items are active for consideration by the community.*
 
-- [ ] `4.27.15` *(draft form - proposed)* [Roadmap to Resource Gammacell 220 Irradiators](./D.09.x-draft-gammacell-220.md)
-
 - [ ] `D.09.1` [Low Alpha Standard](./D.09.1-standard-low-alpha.md)
 
 - [ ] `D.03.4` [Radiation Hardness Testing and Mixed-Field Radiation Effects](./D.03.4-test-hardness-effects.md)
@@ -108,3 +106,5 @@ of Food Irradiation Community
 - [x] `D.02.0` [Radiation Measurements for Gamma-Radiation Processing](./D.02.0-measure-gamma-processing.md) (Watchlisted in 2011)
 
 - [x] `D.04.4` [Neutron Dosimetry for Reactor Pressure Vessel Surveillance](./D.04.4-dosimetry-neutron-surveillance.md) (Watchlisted in 2012)
+
+- [x] `D.09.4` [Resource Gammacell 220 Irradiators](./D.09.4-resource-gammacell-220.md) (Completed)
