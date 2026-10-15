@@ -53,7 +53,7 @@ of Food Irradiation Community
 - Plastic Impregnation of Cellulose-Based Materials
 - Radiation-Degraded Cellulose-Based Materials for Producing Ethanol
 - Radiation Curing of 3-D Printed Polymer Systems
-- Low electron dosimetry
+- Low energy electron dosimetry
 - New sources of radiation
 - Dose Rate effects on Materials and Biologics
 
